@@ -8,7 +8,7 @@ A modern and minimalist music player application built using the **Flutter** fra
 
 | Main Screen | Player Screen |
 |---|---|
-| ![Main Screen](assets/screenshots/image1.jpeg) | ![Player Screen](assets/screenshots/image2.jpeg) |
+| ![Main Screen](assets/screenshots/image1.jpg) | ![Player Screen](assets/screenshots/image2.jpg) |
 
 ---
 
@@ -38,7 +38,3 @@ Upon reviewing the project's source code, current strengths (Pros) were identifi
 
 ---
 
-## 🚀 Roadmap
-* [ ] Migrate state management to a framework (Bloc or Provider) to enable background playback and seamless navigation.
-* [ ] Read song and artist data dynamically using an ID3 Tag reader package.
-* [ ] Add the ability to stream music files from the internet (Audio Streaming).
